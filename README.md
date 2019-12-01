@@ -1,12 +1,11 @@
-# Good-Friends
-A aplication that recomed you possible good friends that match with your profile
+# Twitter API Tools
 
-The project has 3 states
+*Once installed Tweepy:*
+FIRST you have to do is copy and paste init.py into your workspace. This is the header necessary to work correyly in Twitter API.
 
-Compare tweets liked and retweeted: Compare your liked and retweeted tweets with the other people, if 5/10 (not balanced) are the same or comes from the same accounts the program will recommend you this user.
+Now you can use all the modules as you need. 
+- Find hastags in user timeline and return an array
+- Search user coments in a hashtag and return their usersId
+- -Work in progress-
 
-Read and compare similar hashtags: The program look for similar themes or words
-
-Real world language processing: The program will read all the (new) tweets and look for other users that write about it
-
-For the moment the project is only a concept, its my first project in Python so it will take a while Thank you for the support, all help is welcome!
+Remaind that you can edit them and use it under MIT freeware license
