@@ -7,6 +7,6 @@ FIRST you have to do is copy and paste init.py into your workspace and paste you
 Now you can use all the modules as you need.
 - [Find hastags in user timeline and return an array](https://github.com/sramos02/Twitter-API-tools/blob/master/Tools/find_hashtags.py)
 - [Search user coments in a hashtag and return their usersId](https://github.com/sramos02/Twitter-API-tools/blob/master/Tools/search_hashtag_users.py)
-- -Work in progress-
+- Work in progress
 
 Remaind that you can edit them and use it under MIT freeware license
